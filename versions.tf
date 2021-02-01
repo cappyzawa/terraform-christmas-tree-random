@@ -4,7 +4,7 @@ terraform {
     christmas-tree = {
       version = ">= 0.3.0"
     }
-    rondom = {
+    random = {
       version = ">= 3.0.0"
     }
   }
